@@ -45,3 +45,23 @@ api-engineering-labs/
 ├── images/
 └── .github/workflows/
 ```
+
+### Questions proposed for each lab:
+
+- How is this API documented?
+
+- How does an external consumer understand the contract?
+
+- How are errors standardized?
+
+- How is authentication applied?
+
+- How do I test it?
+
+- How do I monitor it?
+
+- How do I version it without breaking clients?
+
+- How do I know if the API is slow?
+
+- How do I compare REST with gRPC, GraphQL, or WebSockets?
