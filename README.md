@@ -18,32 +18,51 @@ Production-oriented API Engineering Lab using FastAPI, OpenAPI, JWT Authenticati
 ## Initial structure:
 
 ```bash
-api-engineering-labs/
+api-engineering-lab/
+│
 ├── README.md
+│
 ├── docs/
-│   ├── api-concepts.md
-│   ├── rest-vs-graphql-vs-grpc.md
+│   ├── api-fundamentals.md
+│   ├── http-basics.md
+│   ├── rest-architecture.md
+│   ├── openapi-swagger.md
 │   ├── authentication.md
 │   ├── versioning.md
 │   ├── observability.md
+│   ├── grpc.md
+│   ├── graphql.md
 │   └── interview-notes.md
-├── labs/
-│   ├── 01-rest-fastapi-crud/
-│   ├── 02-openapi-contracts/
-│   ├── 03-auth-jwt-api-keys/
-│   ├── 04-pagination-filtering-sorting/
-│   ├── 05-error-handling/
-│   ├── 06-testing-pytest-postman/
-│   ├── 07-observability-prometheus-grafana/
-│   ├── 08-webhooks/
-│   ├── 09-websockets/
-│   ├── 10-graphql-comparison/
-│   └── 11-grpc-comparison/
-├── postman/
-├── k6/
+│
 ├── diagrams/
+│   ├── high-level-architecture.png
+│   ├── request-flow.png
+│   └── observability-flow.png
+│
 ├── images/
-└── .github/workflows/
+│
+├── labs/
+│
+│   ├── 01-fastapi-basics/
+│   ├── 02-rest-crud/
+│   ├── 03-openapi-documentation/
+│   ├── 04-pydantic-validation/
+│   ├── 05-error-handling/
+│   ├── 06-authentication/
+│   ├── 07-testing/
+│   ├── 08-postman/
+│   ├── 09-k6-load-testing/
+│   ├── 10-observability/
+│   ├── 11-webhooks/
+│   ├── 12-websockets/
+│   ├── 13-graphql/
+│   └── 14-grpc/
+│
+├── postman/
+│
+├── k6/
+│
+└── .github/
 ```
 
 ### Questions proposed for each lab:
