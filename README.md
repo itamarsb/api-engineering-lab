@@ -3,7 +3,7 @@ Production-oriented API Engineering Lab using FastAPI, OpenAPI, JWT Authenticati
 
 # API Engineering Lab
 
-## Infographics
+## Overview by Infographics:
 
 ### English
 ![EN](docs/images/api-overview-en.png)
