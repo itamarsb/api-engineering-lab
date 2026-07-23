@@ -90,7 +90,16 @@ Package APIs into containers and automate their basic quality and testing workfl
 | ⬜ | 16 | 🔴 | Payment Simulation API | Payment Sandbox | Automated Tests, Linting, CI Workflow | GitHub Actions, Postman, Newman | Continuous Integration |
 
 
+---
 
+## 🟣 Phase 6 — Consolidated API Projects
+
+Consolidate API design, development, persistence, authentication and testing in complete portfolio projects.
+
+| Status | Lab | Level | API Project | Business Scenario | Main Concepts | Technologies | Skills Demonstrated |
+|:---:|:---:|:---:|---|---|---|---|---|
+| ⬜ | 17 | 🟣 | IoT Telemetry API | Sensor Data Collection | Data Ingestion, Timestamps, Filtering, Aggregation | Python, FastAPI, SQLite | Telemetry API Design |
+| ⬜ | 18 | 🟣 | Service Desk API | IT Support Management | Authentication, CRUD, Roles, Persistence, Testing | FastAPI or NestJS, Database, Postman | Complete API Lifecycle |
 
 
 
