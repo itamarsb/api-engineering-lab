@@ -103,7 +103,29 @@ Consolidate API design, development, persistence, authentication and testing in 
 
 
 
+---
 
+## Learning Journey
+
+```text
+API Fundamentals
+        │
+        ▼
+Professional API Development
+        │
+        ▼
+API Testing with Postman
+        │
+        ▼
+Multi-Framework Development
+        │
+        ▼
+API Delivery Basics
+        │
+        ▼
+Consolidated API Projects
+
+```
 
 ---
 
