@@ -77,6 +77,24 @@ Apply the same API engineering principles using different languages, frameworks 
 | ⬜ | 13 | 🔵 | Healthcare Appointment API | Appointment Scheduling Platform | TypeScript, Modules, Services, DTOs | TypeScript, NestJS | Structured Backend Development |
 
 
+---
+
+## 🔴 Phase 5 — API Delivery Basics
+
+Package APIs into containers and automate their basic quality and testing workflows.
+
+| Status | Lab | Level | API Project | Business Scenario | Main Concepts | Technologies | Skills Demonstrated |
+|:---:|:---:|:---:|---|---|---|---|---|
+| ⬜ | 14 | 🔴 | File Storage API | Document Management Service | File Upload, Validation, Download, Metadata | Python, FastAPI | File Handling, Content Validation |
+| ⬜ | 15 | 🔴 | Notification API | Notification Service | Environment Variables, Dockerfile, Containers | JavaScript, Express, Docker | API Containerization |
+| ⬜ | 16 | 🔴 | Payment Simulation API | Payment Sandbox | Automated Tests, Linting, CI Workflow | GitHub Actions, Postman, Newman | Continuous Integration |
+
+
+
+
+
+
+
 
 ---
 
