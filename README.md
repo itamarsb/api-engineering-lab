@@ -41,7 +41,3 @@ Each lab builds a practical API for a different business scenario, introducing n
 
 
 ```
-
-- How do I know if the API is slow?
-
-- How do I compare REST with gRPC, GraphQL, or WebSockets?
