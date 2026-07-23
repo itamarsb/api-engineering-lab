@@ -37,7 +37,17 @@ Build a solid foundation in HTTP, REST, JSON, resource modeling, validation and 
 | ⬜ | 03 | 🟢 | Inventory API | Retail Inventory | Schemas, Validation, Error Handling | Python, FastAPI, Pydantic | Input Validation, Standardized Errors |
 
 
+---
 
+## 🟡 Phase 2 — Professional API Development
+
+Develop APIs with authentication, persistence, relational data and advanced resource queries.
+
+| Status | Lab | Level | API Project | Business Scenario | Main Concepts | Technologies | Skills Demonstrated |
+|:---:|:---:|:---:|---|---|---|---|---|
+| ⬜ | 04 | 🟡 | Authentication API | SaaS Platform | Password Hashing, JWT, Protected Routes, Authorization | Python, FastAPI, JWT | Authentication, Route Protection |
+| ⬜ | 05 | 🟡 | Blog Platform API | Content Publishing Platform | Persistence, ORM, Relationships, Data Modeling | FastAPI, SQLite, SQLAlchemy | Database Integration, Relational Modeling |
+| ⬜ | 06 | 🟡 | E-commerce Catalog API | Online Store | Pagination, Filtering, Sorting, Search | FastAPI, SQLAlchemy | Query Design, Collection Endpoints |
 
 
 
