@@ -39,5 +39,3 @@ Each lab builds a practical API for a different business scenario, introducing n
 ![ES](docs/images/api-overview-es-es.png)
 
 
-
-```
