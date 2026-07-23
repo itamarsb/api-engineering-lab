@@ -63,7 +63,18 @@ Create organized test collections, environments, assertions and automated API te
 | ⬜ | 09 | 🟠 | Hotel Booking API | Hotel Reservation Platform | Authentication Flow, Collection Runner, Newman | Postman, Newman, JavaScript | End-to-End API Testing |
 
 
+---
 
+## 🔵 Phase 4 — Multi-Framework API Development
+
+Apply the same API engineering principles using different languages, frameworks and architectural styles.
+
+| Status | Lab | Level | API Project | Business Scenario | Main Concepts | Technologies | Skills Demonstrated |
+|:---:|:---:|:---:|---|---|---|---|---|
+| ⬜ | 10 | 🔵 | Currency Exchange API | Financial Utility Service | External APIs, Async Requests, Error Mapping | Python, FastAPI, HTTPX | External API Integration |
+| ⬜ | 11 | 🔵 | Flight Search API | Airline Search Platform | Flask Routing, Blueprints, Serialization | Python, Flask | Flask API Development |
+| ⬜ | 12 | 🔵 | Student Management API | Education Platform | Express Routing, Middleware, Controllers | JavaScript, Node.js, Express | JavaScript API Development |
+| ⬜ | 13 | 🔵 | Healthcare Appointment API | Appointment Scheduling Platform | TypeScript, Modules, Services, DTOs | TypeScript, NestJS | Structured Backend Development |
 
 
 
