@@ -1,7 +1,31 @@
-# api-engineering-lab
-Production-oriented API Engineering Lab using FastAPI, OpenAPI, JWT Authentication, Testing, Observability, Performance Testing and Integration Patterns.
+# API Engineering Lab — Learning Roadmap
 
-# API Engineering Lab
+This roadmap presents a progressive journey through API fundamentals, professional development, testing, multiple frameworks, delivery practices and complete API projects.
+
+Each lab builds a practical API for a different business scenario, introducing new concepts and technologies while reinforcing previously acquired skills.
+
+## Overall Progress
+
+**Completed:** 0 / 18 Labs
+
+### Status Legend
+
+- ⬜ Planned
+- 🟨 In Progress
+- ✅ Completed
+
+### Level Legend
+
+- 🟢 Fundamentals
+- 🟡 Intermediate
+- 🟠 Testing
+- 🔵 Multi-Framework
+- 🔴 Delivery
+- 🟣 Consolidated Project
+
+
+---
+
 
 ## Overview by Infographics:
 
