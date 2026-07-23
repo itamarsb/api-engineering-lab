@@ -164,8 +164,51 @@ Consolidated API Projects
 - Docker
 - GitHub Actions
 
+---
 
 
+
+## Initial directory structure
+
+This structure should evolve as the labs and tutorials are developed.
+
+```text
+api-engineering-lab/
+│
+├── README.md
+├── LICENSE
+│
+├── labs/
+│   ├── 01-weather-api/
+│   ├── 02-library-management-api/
+│   ├── 03-inventory-api/
+│   ├── 04-authentication-api/
+│   ├── 05-blog-platform-api/
+│   ├── 06-ecommerce-catalog-api/
+│   ├── 07-movie-catalog-api/
+│   ├── 08-task-management-api/
+│   ├── 09-hotel-booking-api/
+│   ├── 10-currency-exchange-api/
+│   ├── 11-flight-search-api/
+│   ├── 12-student-management-api/
+│   ├── 13-healthcare-appointment-api/
+│   ├── 14-file-storage-api/
+│   ├── 15-notification-api/
+│   ├── 16-payment-simulation-api/
+│   ├── 17-iot-telemetry-api/
+│   └── 18-service-desk-api/
+│
+├── postman/
+│   ├── collections/
+│   └── environments/
+│
+├── docs/
+│   ├── api-fundamentals/
+│   └── images/
+│
+└── .github/
+    └── workflows/
+```
 
 ---
 
