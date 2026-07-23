@@ -129,6 +129,46 @@ Consolidated API Projects
 
 ---
 
+
+## Main Technologies
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+
+### Frameworks
+- FastAPI
+- Flask
+- Express
+- NestJS
+
+### API Design and Documentation
+- HTTP
+- REST
+- JSON
+- OpenAPI
+- Swagger UI
+
+### Testing
+- Postman
+- Newman
+- JavaScript Test Scripts
+
+### Data and Persistence
+- SQLite
+- PostgreSQL
+- SQLAlchemy
+
+### Delivery
+- Docker
+- GitHub Actions
+
+
+
+
+---
+
 ## Overview by Infographics:
 
 ### English
