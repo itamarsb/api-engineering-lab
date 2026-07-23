@@ -26,8 +26,6 @@ Each lab builds a practical API for a different business scenario, introducing n
 
 ---
 
----
-
 ## 🟢 Phase 1 — API Fundamentals
 
 Build a solid foundation in HTTP, REST, JSON, resource modeling, validation and error handling.
@@ -39,7 +37,7 @@ Build a solid foundation in HTTP, REST, JSON, resource modeling, validation and 
 | ⬜ | 03 | 🟢 | Inventory API | Retail Inventory | Schemas, Validation, Error Handling | Python, FastAPI, Pydantic | Input Validation, Standardized Errors |
 
 
----
+
 
 
 
