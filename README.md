@@ -50,6 +50,20 @@ Develop APIs with authentication, persistence, relational data and advanced reso
 | ⬜ | 06 | 🟡 | E-commerce Catalog API | Online Store | Pagination, Filtering, Sorting, Search | FastAPI, SQLAlchemy | Query Design, Collection Endpoints |
 
 
+---
+
+## 🟠 Phase 3 — API Testing with Postman
+
+Create organized test collections, environments, assertions and automated API test executions.
+
+| Status | Lab | Level | API Project | Business Scenario | Main Concepts | Technologies | Skills Demonstrated |
+|:---:|:---:|:---:|---|---|---|---|---|
+| ⬜ | 07 | 🟠 | Movie Catalog API | Streaming Catalog | Requests, Collections, Environments, Variables | Postman, FastAPI | Manual API Testing, Test Organization |
+| ⬜ | 08 | 🟠 | Task Management API | Team Productivity Platform | Assertions, Test Scripts, Dynamic Variables | Postman, JavaScript | Automated Functional Testing |
+| ⬜ | 09 | 🟠 | Hotel Booking API | Hotel Reservation Platform | Authentication Flow, Collection Runner, Newman | Postman, Newman, JavaScript | End-to-End API Testing |
+
+
+
 
 
 
