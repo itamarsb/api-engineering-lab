@@ -658,6 +658,7 @@ api-engineering-lab/
 │   ├── 16-payment-simulation-api/
 │   ├── 17-iot-telemetry-api/
 │   └── 18-service-desk-api/
+|   └── script/
 │
 ├── postman/
 │   ├── collections/
