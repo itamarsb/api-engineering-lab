@@ -66,6 +66,17 @@ PATCH  /books/{book_id}
 DELETE /books/{book_id}
 ```
 
+### Lab 03 — Inventory API
+
+API for product and inventory management. The focus will be on data validation, business rules, and consistent error responses.
+
+Validation examples:
+
+- price greater than zero;
+- non-negative quantity;
+- mandatory and unique SKU;
+- non-existent product;
+- insufficient stock.
 
 
 ---
