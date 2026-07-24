@@ -220,7 +220,25 @@ We will also have:
 - positive and negative tests.
 
 
+### Lab 09 — Hotel Booking API
 
+It will represent a complete business flow:
+
+```text
+Register User
+      ↓
+Login
+      ↓
+Search Rooms
+      ↓
+Create Booking
+      ↓
+Get Booking
+      ↓
+Cancel Booking
+```
+
+The collection will be executed by the Postman Collection Runner and by Newman in the terminal.
 
 
 
