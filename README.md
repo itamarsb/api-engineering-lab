@@ -165,6 +165,39 @@ Create organized test collections, environments, assertions and automated API te
 | ⬜ | 09 | 🟠 | Hotel Booking API | Hotel Reservation Platform | Authentication Flow, Collection Runner, Newman | Postman, Newman, JavaScript | End-to-End API Testing |
 
 
+### Planned content
+
+### Lab 07 — Movie Catalog API
+
+The focus will be on creating and organizing a Postman collection.
+
+The collection may contain:
+
+```text
+Health Check
+Movies
+Genres
+Directors
+Search
+```
+
+The following will be used:
+
+- environments;
+- base URL;
+- collection variables;
+- query parameters;
+- headers;
+- request body;
+- response examples;
+- collection documentation.
+
+
+
+
+
+
+
 ---
 
 ## 🔵 Phase 4 — Multi-Framework API Development
