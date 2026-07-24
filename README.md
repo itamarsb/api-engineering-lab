@@ -571,6 +571,26 @@ Consolidated API Projects
 ---
 
 
+## Core Principles
+
+Every lab follows these principles:
+
+- Practical and business-oriented API development;
+- Clear REST and HTTP semantics;
+- Consistent request and response contracts;
+- Input validation and standardized error handling;
+- OpenAPI documentation;
+- Postman-based API testing;
+- Progressive use of Python, JavaScript and TypeScript;
+- Simple and reproducible local execution;
+- Clear technical documentation;
+- Portfolio-oriented delivery.
+
+
+
+---
+
+
 ## Main Technologies
 
 ### Languages
