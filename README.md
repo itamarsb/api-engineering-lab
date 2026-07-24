@@ -280,6 +280,30 @@ Concepts:
 - currency and value validation.
 
 
+### Lab 11 — Flight Search API
+
+First API with Flask.
+
+Possible features:
+
+```text
+/airports
+/flights
+/routes
+/search
+```
+
+The lab will cover:
+
+- application factory;
+- blueprints;
+- configuration;
+- serialization;
+- error handling;
+- differences between Flask and FastAPI.
+
+
+
 
 
 
