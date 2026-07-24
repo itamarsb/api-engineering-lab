@@ -199,7 +199,7 @@ This lab introduces automated tests written in JavaScript within Postman.
 
 Examples:
 
-```javascript
+```text
 pm.test("Status code is 200", function () {
     pm.response.to.have.status(200);
 });
