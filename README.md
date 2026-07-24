@@ -500,6 +500,47 @@ Concepts:
 - contract documentation.
 
 
+### Lab 18 — Service Desk API
+
+This will be the final and most comprehensive project in the repository.
+
+Features:
+
+```text
+/users
+/auth
+/tickets
+/categories
+/priorities
+/statuses
+/comments
+```
+
+Possible profiles:
+
+```text
+Requester
+Technician
+Administrator
+```
+
+Features:
+
+- user creation;
+- login;
+- ticket creation;
+- technician assignment;
+- priority modification;
+- status updates;
+- comments;
+- basic history;
+- filters;
+- pagination;
+- role-based authorization;
+- OpenAPI documentation;
+- Postman collection;
+- tests with Newman;
+- well-documented local execution.
 
 
 
