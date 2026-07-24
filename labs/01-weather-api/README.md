@@ -25,3 +25,31 @@ They will demonstrate:
 - manual testing via browser, Swagger, PowerShell, and Postman.
 
 FastAPI automatically distinguishes between parameters present in the path and those received in the query string. Type annotations are also used for conversion, validation, and OpenAPI contract generation.
+
+---
+
+## 1. Laboratory structure
+
+Within the repository, we will create:
+
+```text
+api-engineering-lab/
+│
+├── labs/
+│   └── 01-weather-api/
+│       ├── app/
+│       │   ├── __init__.py
+│       │   ├── data.py
+│       │   └── main.py
+│       │
+│       ├── docs/
+│       │   └── images/
+│       │
+│       ├── .gitignore
+│       ├── README.md
+│       └── requirements.txt
+│
+└── README.md
+```
+
+For Lab 01, this structure offers a good balance: it is small enough to grasp (especially if you are a beginner following the tutorial in this repository), yet it avoids concentrating the entire project into a single file.
