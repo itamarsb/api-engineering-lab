@@ -51,6 +51,23 @@ GET /weather
 GET /weather/{city}
 ```
 
+### Lab 02 — Library Management API
+
+First complete CRUD. It will allow for registering, querying, updating, and removing books.
+
+Possible endpoints:
+
+```text
+GET    /books
+GET    /books/{book_id}
+POST   /books
+PUT    /books/{book_id}
+PATCH  /books/{book_id}
+DELETE /books/{book_id}
+```
+
+
+
 ---
 
 ## 🟡 Phase 2 — Professional API Development
