@@ -357,9 +357,6 @@ The project is educational and will not handle real medical data.
 
 
 
-
-
-
 ---
 
 ## 🔴 Phase 5 — API Delivery Basics
@@ -399,6 +396,28 @@ Validations:
 - metadata.
 
 
+### Lab 15 — Notification API
+
+Express API to simulate sending notifications.
+
+Possible types:
+
+```text
+email
+sms
+push
+```
+
+There will be no need to use paid providers. Sending can be simulated and logged locally.
+
+The objectives are:
+
+- configuration via environment variables;
+- creation of a `Dockerfile`;
+- image creation;
+- container execution;
+- port exposure;
+- optional log persistence.
 
 
 
