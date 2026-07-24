@@ -92,6 +92,34 @@ Develop APIs with authentication, persistence, relational data and advanced reso
 | ⬜ | 06 | 🟡 | E-commerce Catalog API | Online Store | Pagination, Filtering, Sorting, Search | FastAPI, SQLAlchemy | Query Design, Collection Endpoints |
 
 
+### Planned content
+
+### Lab 04 — Authentication API
+
+Will allow creating users, logging in, and accessing protected routes.
+
+Possible endpoints:
+
+```text
+POST /auth/register
+POST /auth/login
+GET  /auth/me
+GET  /admin/users
+```
+
+Key concepts:
+
+- secure password storage;
+- password hashing;
+- JWT generation;
+- Bearer Token;
+- authenticated user;
+- basic role-based permissions.
+
+
+
+
+
 ---
 
 ## 🟠 Phase 3 — API Testing with Postman
