@@ -44,7 +44,7 @@ An introductory API that initially does not rely on an external weather service.
 
 Possible endpoints:
 
-```text
+```http
 GET /
 GET /health
 GET /weather
@@ -57,7 +57,7 @@ First complete CRUD. It will allow for registering, querying, updating, and remo
 
 Possible endpoints:
 
-```text
+```http
 GET    /books
 GET    /books/{book_id}
 POST   /books
@@ -100,7 +100,7 @@ Will allow creating users, logging in, and accessing protected routes.
 
 Possible endpoints:
 
-```text
+```http
 POST /auth/register
 POST /auth/login
 GET  /auth/me
@@ -123,7 +123,7 @@ The first project featuring actual data persistence. We will use SQLite to keep 
 
 Features:
 
-```text
+```http
 /users
 /posts
 /comments
