@@ -80,12 +80,11 @@ cd labs\01-weather-api
 
 It is also possible to create these folders manually using the VS Code Explorer.
 
-IMAGEM01
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_01.jpg)
 
 AND
 
-IMAGEM02
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_02.jpg)
 
 
 ---
