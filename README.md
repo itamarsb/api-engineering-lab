@@ -117,7 +117,26 @@ Key concepts:
 - basic role-based permissions.
 
 
+### Lab 05 — Blog Platform API
 
+The first project featuring actual data persistence. We will use SQLite to keep the lab simple, portable, and easy to run.
+
+Features:
+
+```text
+/users
+/posts
+/comments
+/categories
+```
+
+Possible relationships:
+
+```text
+User 1 ─── N Posts
+Post 1 ─── N Comments
+Category N ─── N Posts
+```
 
 
 ---
