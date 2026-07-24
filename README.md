@@ -138,6 +138,19 @@ Post 1 ─── N Comments
 Category N ─── N Posts
 ```
 
+### Lab 06 — E-commerce Catalog API
+
+A catalog API with endpoints that handle larger datasets.
+
+Examples:
+
+```text
+GET /products?page=1&limit=10
+GET /products?category=electronics
+GET /products?min_price=100&max_price=1000
+GET /products?sort=price&order=asc
+GET /products?search=notebook
+```
 
 ---
 
