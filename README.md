@@ -464,6 +464,41 @@ Consolidate API design, development, persistence, authentication and testing in 
 
 ### Planned content
 
+### Lab 17 — IoT Telemetry API
+
+You will receive simulated sensor data.
+
+Payload example:
+
+```json
+{
+  "device_id": "sensor-001",
+  "temperature": 24.7,
+  "humidity": 71.2,
+  "timestamp": "2026-07-23T18:30:00Z"
+}
+```
+
+Possible endpoints:
+
+```text
+POST /telemetry
+GET  /telemetry
+GET  /telemetry/{device_id}
+GET  /telemetry/{device_id}/latest
+GET  /telemetry/{device_id}/summary
+```
+
+Concepts:
+
+- timestamps;
+- data ingestion;
+- time-range filters;
+- grouping;
+- calculation of minimum, maximum, and average;
+- device validation;
+- contract documentation.
+
 
 
 
