@@ -85,3 +85,19 @@ IMAGEM01
 AND
 
 IMAGEM02
+
+
+---
+
+
+## 3. Create the virtual environment
+
+Inside `labs/01-weather-api`, run:
+
+```powershell
+python -m venv .venv
+```
+
+The `venv` creates an isolated environment so that the lab's dependencies do not mix with global packages or other Python projects. The name `.venv` is a common convention for this directory.
+
+IMAGEM03
