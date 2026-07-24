@@ -144,7 +144,7 @@ A catalog API with endpoints that handle larger datasets.
 
 Examples:
 
-```text
+```http
 GET /products?page=1&limit=10
 GET /products?category=electronics
 GET /products?min_price=100&max_price=1000
@@ -264,7 +264,7 @@ You will consume a public currency exchange API and provide a custom interface f
 
 Possible endpoints:
 
-```text
+```http
 GET /currencies
 GET /rates/{base_currency}
 GET /convert?from=USD&to=BRL&amount=100
@@ -378,7 +378,7 @@ It will allow uploading, querying, and downloading files.
 
 Possible endpoints:
 
-```text
+```http
 POST   /files
 GET    /files
 GET    /files/{file_id}
@@ -426,7 +426,7 @@ An educational sandbox for simulating payment operations without processing real
 
 Supported operations:
 
-```text
+```http
 POST /payments
 GET  /payments/{payment_id}
 POST /payments/{payment_id}/confirm
@@ -481,7 +481,7 @@ Payload example:
 
 Possible endpoints:
 
-```text
+```http
 POST /telemetry
 GET  /telemetry
 GET  /telemetry/{device_id}
