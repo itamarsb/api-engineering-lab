@@ -420,6 +420,34 @@ The objectives are:
 - optional log persistence.
 
 
+### Lab 16 — Payment Simulation API
+
+An educational sandbox for simulating payment operations without processing real money.
+
+Supported operations:
+
+```text
+POST /payments
+GET  /payments/{payment_id}
+POST /payments/{payment_id}/confirm
+POST /payments/{payment_id}/cancel
+POST /payments/{payment_id}/refund
+```
+
+The pipeline will be able to execute:
+
+```text
+Install Dependencies
+        ↓
+Lint
+        ↓
+Start API
+        ↓
+Run Newman Tests
+        ↓
+Publish Test Result
+```
+
 
 
 ---
