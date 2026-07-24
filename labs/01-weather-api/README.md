@@ -79,3 +79,9 @@ cd labs\01-weather-api
 ```
 
 It is also possible to create these folders manually using the VS Code Explorer.
+
+IMAGEM01
+
+AND
+
+IMAGEM02
