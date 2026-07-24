@@ -101,3 +101,29 @@ python -m venv .venv
 The `venv` creates an isolated environment so that the lab's dependencies do not mix with global packages or other Python projects. The name `.venv` is a common convention for this directory.
 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_03.jpg)
+
+
+Activate the environment:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+When active, the terminal should display something similar to:
+
+```powershell
+(.venv) PS C:\...\api-engineering-lab\labs\01-weather-api>
+```
+
+However, if PowerShell blocks the activation, run it only for the current session:
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
+Then, try again:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
