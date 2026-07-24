@@ -303,6 +303,36 @@ The lab will cover:
 - differences between Flask and FastAPI.
 
 
+### Lab 12 — Student Management API
+
+First API using JavaScript and Node.js.
+
+Suggested structure:
+
+```text
+src/
+├── controllers/
+├── routes/
+├── services/
+├── middlewares/
+├── models/
+└── app.js
+```
+
+Concepts:
+
+- routes;
+- controllers;
+- middleware;
+- validation;
+- centralized error handling;
+- asynchronous programming.
+
+
+
+
+
+
 
 
 
