@@ -36,6 +36,20 @@ Build a solid foundation in HTTP, REST, JSON, resource modeling, validation and 
 | ⬜ | 02 | 🟢 | Library Management API | University Library | CRUD, Resources, HTTP Methods, Status Codes | Python, FastAPI | Resource Modeling, CRUD Operations |
 | ⬜ | 03 | 🟢 | Inventory API | Retail Inventory | Schemas, Validation, Error Handling | Python, FastAPI, Pydantic | Input Validation, Standardized Errors |
 
+### Planned Content
+
+### Lab 01 — Weather API
+
+An introductory API that initially does not rely on an external weather service. It will accept a city name and return simulated data in JSON format. The goal is to learn API structure, create routes, and work with parameters.
+
+Possible endpoints:
+
+```text
+GET /
+GET /health
+GET /weather
+GET /weather/{city}
+```
 
 ---
 
