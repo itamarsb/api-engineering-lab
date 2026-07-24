@@ -373,6 +373,36 @@ Package APIs into containers and automate their basic quality and testing workfl
 | ⬜ | 16 | 🔴 | Payment Simulation API | Payment Sandbox | Automated Tests, Linting, CI Workflow | GitHub Actions, Postman, Newman | Continuous Integration |
 
 
+### Planned content
+
+### Lab 14 — File Storage API
+
+It will allow uploading, querying, and downloading files.
+
+Possible endpoints:
+
+```text
+POST   /files
+GET    /files
+GET    /files/{file_id}
+GET    /files/{file_id}/download
+DELETE /files/{file_id}
+```
+
+Validations:
+
+- allowed extension;
+- MIME type;
+- maximum size;
+- safe name;
+- non-existent file;
+- metadata.
+
+
+
+
+
+
 ---
 
 ## 🟣 Phase 6 — Consolidated API Projects
@@ -383,6 +413,11 @@ Consolidate API design, development, persistence, authentication and testing in 
 |:---:|:---:|:---:|---|---|---|---|---|
 | ⬜ | 17 | 🟣 | IoT Telemetry API | Sensor Data Collection | Data Ingestion, Timestamps, Filtering, Aggregation | Python, FastAPI, SQLite | Telemetry API Design |
 | ⬜ | 18 | 🟣 | Service Desk API | IT Support Management | Authentication, CRUD, Roles, Persistence, Testing | FastAPI or NestJS, Database, Postman | Complete API Lifecycle |
+
+
+### Planned content
+
+
 
 
 
