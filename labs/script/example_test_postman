@@ -1,8 +1,0 @@
-pm.test("Status code is 200", function () {
-    pm.response.to.have.status(200);
-});
-
-pm.test("Response contains task ID", function () {
-    const response = pm.response.json();
-    pm.expect(response).to.have.property("id");
-});
