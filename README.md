@@ -123,7 +123,7 @@ The first project featuring actual data persistence. We will use SQLite to keep 
 
 Features:
 
-```http
+```sql
 /users
 /posts
 /comments
