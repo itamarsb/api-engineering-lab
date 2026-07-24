@@ -193,6 +193,32 @@ The following will be used:
 - collection documentation.
 
 
+### Lab 08 — Task Management API
+
+This lab introduces automated tests written in JavaScript within Postman.
+
+Examples:
+
+```javascript
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Response contains task ID", function () {
+    const response = pm.response.json();
+    pm.expect(response).to.have.property("id");
+});
+```
+
+We will also have:
+
+- dynamic ID capture;
+- request chaining;
+- creation and removal of test data;
+- header validation;
+- type validation;
+- positive and negative tests.
+
 
 
 
