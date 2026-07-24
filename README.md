@@ -256,6 +256,34 @@ Apply the same API engineering principles using different languages, frameworks 
 | ⬜ | 13 | 🔵 | Healthcare Appointment API | Appointment Scheduling Platform | TypeScript, Modules, Services, DTOs | TypeScript, NestJS | Structured Backend Development |
 
 
+### Planned content
+
+### Lab 10 — Currency Exchange API
+
+You will consume a public currency exchange API and provide a custom interface for conversions.
+
+Possible endpoints:
+
+```text
+GET /currencies
+GET /rates/{base_currency}
+GET /convert?from=USD&to=BRL&amount=100
+```
+
+Concepts:
+
+- external API consumption;
+- asynchronous HTTP client;
+- timeouts;
+- handling unavailability;
+- mapping external errors;
+- currency and value validation.
+
+
+
+
+
+
 ---
 
 ## 🔴 Phase 5 — API Delivery Basics
