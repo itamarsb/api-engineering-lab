@@ -329,9 +329,31 @@ Concepts:
 - asynchronous programming.
 
 
+### Lab 13 — Healthcare Appointment API
 
+First API using TypeScript and NestJS.
 
+Features:
 
+```text
+/patients
+/doctors
+/specialties
+/appointments
+```
+
+The lab will demonstrate:
+
+- modules;
+- controllers;
+- providers;
+- services;
+- DTOs;
+- decorators;
+- dependency injection;
+- validation with TypeScript.
+
+The project is educational and will not handle real medical data.
 
 
 
