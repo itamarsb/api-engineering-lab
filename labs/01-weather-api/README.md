@@ -152,4 +152,18 @@ pip install -r requirements.txt
 
 The `fastapi[standard]` installation includes the standard dependencies required to run the application and provides the FastAPI CLI. Current documentation recommends working within a virtual environment and running the application in development mode using `fastapi dev`.
 
+
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_06.jpg)
+
+
+Once we confirm that everything is working, we can pin the installed versions:
+
+```powershell
+pip freeze > requirements.txt
+```
+
+This makes future execution more reproducible. The FastAPI documentation itself recommends pinning a version that has been validated by the project, especially before evolving or publishing the application.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_07.jpg)
+
+
