@@ -128,3 +128,17 @@ Then, try again:
 ```
 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_04.jpg)
+
+
+---
+
+## 4. Install FastAPI
+
+Populate the `requirements.txt` file with:
+
+```text
+fastapi[standard]
+```
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_05.jpg)
+
