@@ -142,3 +142,14 @@ fastapi[standard]
 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_05.jpg)
 
+
+Then run:
+
+```powershell
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+The `fastapi[standard]` installation includes the standard dependencies required to run the application and provides the FastAPI CLI. Current documentation recommends working within a virtual environment and running the application in development mode using `fastapi dev`.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_05.jpg)
