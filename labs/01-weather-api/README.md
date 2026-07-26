@@ -660,4 +660,25 @@ This behavior demonstrates a key advantage of type declarations: the framework a
 ---
 
 
+## 12. Test using Swagger UI
+
+Swagger UI is simply an interactive interface for testing the API via the browser. You don't need to install anything beyond what you are already using with FastAPI.
+
+### Confirm that the API is running
+
+In the VS Code terminal, inside the lab folder, run:
+
+```bash
+uvicorn app.main:app --reload
+```
+
+You should receive something similar to:
+
+```text
+Uvicorn running on http://127.0.0.1:8000
+```
+
+Keep this terminal open. Do not press `Ctrl + C`, as that would terminate the application.
+
+
 
