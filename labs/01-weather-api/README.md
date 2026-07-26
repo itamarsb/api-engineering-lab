@@ -631,5 +631,27 @@ This is important because an API should not return `200 OK` when the requested r
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_19.jpg)
 
 
+---
+
+
+## 11. Test automatic validation
+
+Go to:
+
+```http
+http://127.0.0.1:8000/weather/orlando?unit=kelvin
+```
+
+Since the parameter accepts only:
+
+```text
+celsius
+fahrenheit
+```
+
+FastAPI will return a `422` validation error.
+
+This behavior demonstrates a key advantage of type declarations: the framework automatically converts, validates, and documents the accepted parameters.
+
 
 
