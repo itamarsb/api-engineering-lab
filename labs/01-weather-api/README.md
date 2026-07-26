@@ -589,4 +589,33 @@ http://127.0.0.1:8000/weather/orlando?unit=fahrenheit
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_17.jpg)
 
 
+---
+
+
+## 10. Test an error response
+
+Access a city that does not exist in the dataset:
+
+```http
+http://127.0.0.1:8000/weather/chicago
+```
+
+Expected response:
+
+```json
+{
+  "detail": {
+    "error": "city_not_found",
+    "message": "Weather data is not available for 'chicago'.",
+    "available_cities": [
+      "Rio Grande",
+      "Porto Alegre",
+      "Orlando",
+      "Tampa"
+    ]
+  }
+}
+```
+
+
 
