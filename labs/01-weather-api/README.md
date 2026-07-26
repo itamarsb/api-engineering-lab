@@ -682,3 +682,28 @@ Keep this terminal open. Do not press `Ctrl + C`, as that would terminate the ap
 
 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_21.jpg)
+
+
+### Open Swagger UI
+
+In Firefox, Chrome, or Edge, go to:
+
+```http
+http://127.0.0.1:8000/docs
+```
+
+The page will be titled:
+
+```text
+FastAPI - Swagger UI
+```
+
+You will probably see two groups:
+
+- General
+- Weather
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_22.jpg)
+
+
+
