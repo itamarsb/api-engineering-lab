@@ -565,23 +565,28 @@ Try this too:
 http://127.0.0.1:8000/health
 ```
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_14.jpg)
 
 
 ```http
 http://127.0.0.1:8000/weather
 ```
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_15.jpg)
 
 
 ```http
 http://127.0.0.1:8000/weather/rio-grande
 ```
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_16.jpg)
 
 
 ```http
 http://127.0.0.1:8000/weather/orlando?unit=fahrenheit
 ```
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_17.jpg)
 
 
 
