@@ -168,7 +168,7 @@ This makes future execution more reproducible. The FastAPI documentation itself 
 
 
 > [!TIP]
-> **Note**
+> **Note:**
 >
 > If you are new to FastAPI, I suggest you take some time to review the official FastAPI documentation (at the link below), as there is no better material for learning any technology than the official documentation provided by the developers themselves:
 >
