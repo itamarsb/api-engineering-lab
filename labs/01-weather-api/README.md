@@ -244,3 +244,5 @@ This data is deliberately simulated. We will not need:
 The goal of this lab is to learn the structure and behavior of an API, not to integrate a real weather provider. That type of integration will be demonstrated later in another lab.
 
 
+
+### O que esse código já demonstra:
