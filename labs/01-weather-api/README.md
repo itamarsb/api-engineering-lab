@@ -494,3 +494,24 @@ Thumbs.db
 The `.venv` folder should not be pushed to GitHub. The repository will store dependencies in `requirements.txt`, not a full copy of the Python environment.
 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_09.jpg)
+
+
+---
+
+
+## 8. Run the API
+
+In the `labs/01-weather-api` folder, with the virtual environment activated:
+
+```powershell
+fastapi dev app/main.py
+```
+
+The output should indicate a server similar to:
+
+```http
+FastAPI  Starting development server
+
+Server started at http://127.0.0.1:8000
+Documentation at http://127.0.0.1:8000/docs
+```
