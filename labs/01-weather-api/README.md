@@ -706,4 +706,17 @@ You will probably see two groups:
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_22.jpg)
 
 
+### Open the climate route
+
+Click on the line:
+
+```http
+GET /weather/{city}
+```
+
+It should expand and display the available parameters.
+
+The `GET` button indicates that this route is used to query information without modifying data.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_23.jpg)
 
