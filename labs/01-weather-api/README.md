@@ -559,3 +559,29 @@ Expected response:
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_13.jpg)
 
 
+Try this too:
+
+```http
+http://127.0.0.1:8000/health
+```
+
+
+
+```http
+http://127.0.0.1:8000/weather
+```
+
+
+
+```http
+http://127.0.0.1:8000/weather/rio-grande
+```
+
+
+
+```http
+http://127.0.0.1:8000/weather/orlando?unit=fahrenheit
+```
+
+
+
