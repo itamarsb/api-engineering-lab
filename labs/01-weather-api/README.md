@@ -167,3 +167,10 @@ This makes future execution more reproducible. The FastAPI documentation itself 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_07.jpg)
 
 
+> [!TIP]
+> **Note**
+>
+> If you are new to FastAPI, I suggest you take some time to review the official FastAPI documentation (at the link below), as there is no better material for learning any technology than the official documentation provided by the developers themselves:
+>
+> https://fastapi.tiangolo.com/
+> 
