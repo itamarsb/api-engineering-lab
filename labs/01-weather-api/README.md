@@ -620,3 +620,16 @@ Expected response:
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_18.jpg)
 
 
+The HTTP code must be:
+
+```http
+404 Not Found
+```
+
+This is important because an API should not return `200 OK` when the requested resource was not found.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_19.jpg)
+
+
+
+
