@@ -617,5 +617,6 @@ Expected response:
 }
 ```
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_18.jpg)
 
 
