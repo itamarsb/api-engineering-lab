@@ -695,7 +695,7 @@ http://127.0.0.1:8000/docs
 The page will be titled:
 
 ```text
-FastAPI - Swagger UI
+Weather API - Swagger UI
 ```
 
 You will probably see two groups:
