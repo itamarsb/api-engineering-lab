@@ -720,3 +720,17 @@ The `GET` button indicates that this route is used to query information without 
 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_23.jpg)
 
+
+### Click “Try it out”
+
+In the right corner of the expanded route, click:
+
+```text
+Try it out
+```
+
+The fields, previously blocked, will become available for entry.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_24.jpg)
+
+
