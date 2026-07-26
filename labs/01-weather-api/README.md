@@ -515,3 +515,7 @@ FastAPI  Starting development server
 Server started at http://127.0.0.1:8000
 Documentation at http://127.0.0.1:8000/docs
 ```
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_11.jpg)
+
+
