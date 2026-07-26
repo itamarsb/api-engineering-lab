@@ -734,3 +734,36 @@ The fields, previously blocked, will become available for entry.
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_24.jpg)
 
 
+### Fill in the parameters
+
+In the required `city` field, enter:
+
+```text
+Rio Grande
+```
+
+In the `unit` field, choose or enter:
+
+```text
+celsius
+```
+
+Depending on how the route was programmed, the `unit` field may appear as:
+
+- a text box;
+- a list of options;
+- a parameter pre-filled with `celsius`.
+
+Do not enter `city: Rio Grande` in the field. Type only:
+
+```text
+Rio Grande
+```
+
+Likewise, in the unit field, enter only:
+
+```text
+celsius
+```
+
+
