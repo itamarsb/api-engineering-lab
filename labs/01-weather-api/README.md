@@ -789,3 +789,41 @@ The `%20` simply represents the space between `Rio` and `Grande`.
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_26.jpg)
 
 
+### Check the result
+
+After running it, look for the section:
+
+```text
+Server response
+```
+
+The most important points are:
+
+### Code
+
+If everything is correct:
+
+```text
+200
+```
+
+This means that the request was processed successfully.
+
+### Response body
+
+It is the JSON response produced by the API. It may have a format similar to:
+
+```json
+{
+  "city": "Rio Grande",
+  "temperature": 18.5,
+  "unit": "celsius",
+  "condition": "Cloudy"
+}
+```
+
+The exact content depends on how we build the application.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_27.jpg)
+
+
