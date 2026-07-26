@@ -766,7 +766,26 @@ Likewise, in the unit field, enter only:
 celsius
 ```
 
-![Lab01](docs/images/Lab01_Clipboard_07-24-2026_24.jpg)
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_25.jpg)
 
+
+
+### Click “Execute”
+
+After filling in the fields, click the blue button:
+
+```text
+Execute
+```
+
+Swagger will construct a request similar to:
+
+```http
+GET http://127.0.0.1:8000/weather/Rio%20Grande?unit=celsius
+```
+
+The `%20` simply represents the space between `Rio` and `Grande`.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_26.jpg)
 
 
