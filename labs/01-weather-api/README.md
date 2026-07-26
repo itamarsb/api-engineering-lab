@@ -816,9 +816,9 @@ It is the JSON response produced by the API. It may have a format similar to:
 ```json
 {
   "city": "Rio Grande",
-  "temperature": 18.5,
+  "temperature": 16.5,
   "unit": "celsius",
-  "condition": "Cloudy"
+  "condition": "Partly cloudy"
 }
 ```
 
