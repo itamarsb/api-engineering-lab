@@ -232,3 +232,15 @@ WEATHER_DATA: dict[str, dict[str, object]] = {
     },
 }
 ```
+
+This data is deliberately simulated. We will not need:
+
+- an API key;
+- registration with an external service;
+- an internet connection;
+- handling of request limits;
+- third-party dependencies.
+
+The goal of this lab is to learn the structure and behavior of an API, not to integrate a real weather provider. That type of integration will be demonstrated later in another lab.
+
+
