@@ -312,4 +312,4 @@ Thumbs.db
 
 The `.venv` folder should not be pushed to GitHub. The repository will store dependencies in `requirements.txt`, not a full copy of the Python environment.
 
-
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_09.jpg)
