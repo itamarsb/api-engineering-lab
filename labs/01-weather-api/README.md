@@ -247,4 +247,24 @@ The goal of this lab is to learn the structure and behavior of an API, not to in
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_08.jpg)
 
 
-### O que esse código já demonstra:
+### What this code already demonstrates:
+
+The endpoint:
+
+```http
+GET /weather/{city}
+```
+
+uses `city` as path parameter:
+
+```http
+GET /weather/orlando
+```
+
+While `unit` is a query parameter:
+
+```http
+GET /weather/orlando?unit=fahrenheit
+```
+
+FastAPI identifies these parameters based on the route declaration and the function signature. It also applies validations and includes the information in the OpenAPI documentation.
