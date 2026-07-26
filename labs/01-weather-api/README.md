@@ -532,3 +532,27 @@ However, we will use `fastapi dev app/main.py` in the tutorial because it is the
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_12.jpg)
 
 
+---
+
+
+## 9. Test in the browser
+
+Open:
+
+```http
+http://127.0.0.1:8000/
+```
+
+Expected response:
+
+```json
+{
+  "name": "Weather API",
+  "version": "1.0.0",
+  "description": "Simulated weather data for API learning.",
+  "documentation": "/docs",
+  "alternative_documentation": "/redoc",
+  "health_check": "/health"
+}
+```
+
