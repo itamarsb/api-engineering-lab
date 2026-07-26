@@ -519,3 +519,16 @@ Documentation at http://127.0.0.1:8000/docs
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_11.jpg)
 
 
+The `fastapi dev` command is intended for local development and starts the server with automatic reloading.
+
+It is also possible to run it using:
+
+```powershell
+uvicorn app.main:app --reload
+```
+
+However, we will use `fastapi dev app/main.py` in the tutorial because it is the workflow currently presented in the official documentation.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_12.jpg)
+
+
