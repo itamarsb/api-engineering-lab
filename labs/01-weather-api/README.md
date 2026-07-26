@@ -283,7 +283,7 @@ In the file:
 
 add:
 
-```.gitinore
+```gitignore
 # Virtual environment
 .venv/
 venv/
