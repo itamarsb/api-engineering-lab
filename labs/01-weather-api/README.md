@@ -448,6 +448,9 @@ GET /weather/orlando?unit=fahrenheit
 FastAPI identifies these parameters based on the route declaration and the function signature. It also applies validations and includes the information in the OpenAPI documentation.
 
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_10.jpg)
+
+
 ---
 
 
