@@ -283,7 +283,7 @@ In the file:
 
 add:
 
-```gitinore
+```.gitinore
 # Virtual environment
 .venv/
 venv/
