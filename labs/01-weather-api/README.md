@@ -654,4 +654,10 @@ FastAPI will return a `422` validation error.
 This behavior demonstrates a key advantage of type declarations: the framework automatically converts, validates, and documents the accepted parameters.
 
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_20.jpg)
+
+
+---
+
+
 
