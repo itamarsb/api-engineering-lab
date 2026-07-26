@@ -268,3 +268,48 @@ GET /weather/orlando?unit=fahrenheit
 ```
 
 FastAPI identifies these parameters based on the route declaration and the function signature. It also applies validations and includes the information in the OpenAPI documentation.
+
+
+---
+
+
+## 7. Create the .gitignore
+
+In the file:
+
+```text
+.gitignore
+```
+
+add:
+
+```gitinore
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+```
+
+The `.venv` folder should not be pushed to GitHub. The repository will store dependencies in `requirements.txt`, not a full copy of the Python environment.
+
+
