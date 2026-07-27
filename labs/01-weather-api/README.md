@@ -1055,5 +1055,6 @@ uvicorn main:app --reload
 
 Use exactly the command that worked in the previous steps.
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_36.jpg)
 
 
