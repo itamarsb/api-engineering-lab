@@ -1081,3 +1081,17 @@ If the Swagger UI documentation opens, the API is ready.
 >
 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_37.jpg)
+
+
+## Rename the collection
+
+On your current screen, the collection appears as "New Collection."
+
+### Rename the collection via the central area
+
+On the screen shown in the image:
+
+1. Item
+Click directly on the large "New Collection" title in the center of the screen.
+Delete the current name.
+Type:
