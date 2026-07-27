@@ -1074,4 +1074,6 @@ http://127.0.0.1:8000/docs
 
 If the Swagger UI documentation opens, the API is ready.
 
-Do not close this terminal while using Postman. The server needs to keep running.
+>
+> Do not close this terminal while using Postman. The server needs to keep running.
+>
