@@ -1094,3 +1094,9 @@ On the screen shown in the image:
 1. Click directly on the large "New Collection" title in the center of the screen.
 2. Delete the current name.
 3. Type:
+
+```text
+Lab 01 — Weather API
+```
+
+4. Press **Enter**.
