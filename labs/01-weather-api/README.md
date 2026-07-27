@@ -845,4 +845,10 @@ curl -X 'GET' \
   -H 'accept: application/json'
 ```
 
+This command demonstrates how the same query could be performed via the terminal.
+
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_28.jpg)
+
+
 
