@@ -987,3 +987,39 @@ http://127.0.0.1:8000
 ```
 
 Using the variable avoids repeating the full address in each request. Postman automatically replaces `{{base_url}}` with the value defined in the collection.
+
+Create a collection named:
+
+```text
+Lab 01 — Weather API
+```
+
+Add the requests:
+
+```http
+01 - API Information
+GET {{base_url}}/
+
+02 - Health Check
+GET {{base_url}}/health
+
+03 - List Weather Records
+GET {{base_url}}/weather
+
+04 - Get Weather by City
+GET {{base_url}}/weather/rio-grande
+
+05 - Convert Temperature
+GET {{base_url}}/weather/orlando?unit=fahrenheit
+
+06 - City Not Found
+GET {{base_url}}/weather/chicago
+```
+
+Create a collection variable:
+
+```http
+base_url = http://127.0.0.1:8000
+```
+
+In this first lab, Postman will be used at a basic level. Collections, environments, scripts, and Newman will be covered in greater depth later in Labs 07–09.
