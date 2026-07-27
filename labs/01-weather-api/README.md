@@ -1100,3 +1100,5 @@ Lab 01 — Weather API
 ```
 
 4. Press **Enter**.
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_38.jpg)
