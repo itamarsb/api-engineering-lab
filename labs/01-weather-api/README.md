@@ -1032,7 +1032,7 @@ The API needs to be running while you perform the tests.
 ### Open the project in VS Code
 
 ```powershell
-cd api-engineering-lab\labs\01-weather-api
+cd C:\GitHub\api-engineering-lab\labs\01-weather-api
 ```
 
 Activate the virtual environment, if it is not already activated:
