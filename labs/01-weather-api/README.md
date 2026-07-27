@@ -878,4 +878,19 @@ After the successful test, you can also open a non-existent route directly in th
 http://127.0.0.1:8000/non-existent-route
 ```
 
+FastAPI should return:
+
+```json
+{
+  "detail": "Not Found"
+}
+```
+
+with the HTTP code:
+
+```text
+404 Not Found
+```
+
+
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_29.jpg)
