@@ -894,3 +894,17 @@ with the HTTP code:
 
 
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_29.jpg)
+
+
+In Swagger, the main test for step 12 is receiving a **200 code** on the `/weather/{city}` route and viewing the JSON in the **Response body**.
+
+If the response is correct, you will see:
+
+- **Code:** `200`
+- **Response body:** JSON returned by the API.
+- **Request URL:** URL used by Swagger.
+
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_30.jpg)
+
+
