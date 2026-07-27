@@ -1023,3 +1023,37 @@ base_url = http://127.0.0.1:8000
 ```
 
 In this first lab, Postman will be used at a basic level. Collections, environments, scripts, and Newman will be covered in greater depth later in Labs 07–09.
+
+
+## Before opening Postman
+
+The API needs to be running while you perform the tests.
+
+### Open the project in VS Code
+
+```powershell
+cd api-engineering-lab\labs\01-weather-api
+```
+
+Activate the virtual environment, if it is not already activated:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+Then, start the API:
+
+```powershell
+uvicorn app.main:app --reload
+```
+
+Depending on the structure used in the laboratory, the command can also be:
+
+```powershell
+uvicorn main:app --reload
+```
+
+Use exactly the command that worked in the previous steps.
+
+
+
