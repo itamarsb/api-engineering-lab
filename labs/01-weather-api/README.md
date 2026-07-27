@@ -956,4 +956,34 @@ curl.exe http://127.0.0.1:8000/weather/tampa
 
 
 
+---
 
+
+
+## 14. Initial Testing on Postman
+
+The goal will be to arrive at this structure:
+
+```text
+Lab 01 — Weather API
+├── 01 - API Information
+├── 02 - Health Check
+├── 03 - List Weather Records
+├── 04 - Get Weather by City
+├── 05 - Convert Temperature
+└── 06 - City Not Found
+```
+
+All requests will use the variable:
+
+```text
+{{base_url}}
+```
+
+with the value:
+
+```http
+http://127.0.0.1:8000
+```
+
+Using the variable avoids repeating the full address in each request. Postman automatically replaces `{{base_url}}` with the value defined in the collection.
