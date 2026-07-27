@@ -1058,3 +1058,20 @@ Use exactly the command that worked in the previous steps.
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_36.jpg)
 
 
+### Confirm that the API is active
+
+The terminal should show something similar to:
+
+```text
+Uvicorn running on http://127.0.0.1:8000
+```
+
+Test in the browser:
+
+```http
+http://127.0.0.1:8000/docs
+```
+
+If the Swagger UI documentation opens, the API is ready.
+
+Do not close this terminal while using Postman. The server needs to keep running.
