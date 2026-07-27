@@ -1079,3 +1079,5 @@ If the Swagger UI documentation opens, the API is ready.
 >
 > Do not close this terminal while using Postman. The server needs to keep running.
 >
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_37.jpg)
