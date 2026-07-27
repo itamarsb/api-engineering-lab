@@ -851,4 +851,21 @@ This command demonstrates how the same query could be performed via the terminal
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_28.jpg)
 
 
+### The complete workflow is this
+
+```text
+Terminal with Uvicorn running
+            ↓
+Open /docs in the browser
+            ↓
+Expand GET /weather/{city}
+            ↓
+Try it out
+            ↓
+Fill in city and unit
+            ↓
+Execute
+            ↓
+Check Code and Response body
+```
 
