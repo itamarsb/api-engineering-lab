@@ -908,3 +908,44 @@ If the response is correct, you will see:
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_30.jpg)
 
 
+---
+
+
+### 13. Test using PowerShell
+
+```powershell
+Invoke-RestMethod http://127.0.0.1:8000/health
+```
+
+
+
+```powershell
+Invoke-RestMethod http://127.0.0.1:8000/weather
+```
+
+
+For a city:
+
+```powershell
+Invoke-RestMethod "http://127.0.0.1:8000/weather/rio-grande"
+```
+
+
+
+With Fahrenheit:
+
+```powershell
+Invoke-RestMethod `
+  "http://127.0.0.1:8000/weather/orlando?unit=fahrenheit"
+```
+
+
+
+It is also possible to use `curl.exe` on Windows:
+
+```powershell
+curl.exe http://127.0.0.1:8000/weather/tampa
+```
+
+
+
