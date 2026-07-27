@@ -1091,7 +1091,6 @@ On your current screen, the collection appears as "New Collection."
 
 On the screen shown in the image:
 
-1. Item
-Click directly on the large "New Collection" title in the center of the screen.
-Delete the current name.
-Type:
+1. Click directly on the large "New Collection" title in the center of the screen.
+2. Delete the current name.
+3. Type:
