@@ -827,3 +827,22 @@ The exact content depends on how we build the application.
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_27.jpg)
 
 
+### Request URL
+
+Shows the full address used by Swagger:
+
+```text
+http://127.0.0.1:8000/weather/Rio%20Grande?unit=celsius
+```
+
+### Curl
+
+Swagger also automatically creates an equivalent command:
+
+```bash
+curl -X 'GET' \
+  'http://127.0.0.1:8000/weather/Rio%20Grande?unit=celsius' \
+  -H 'accept: application/json'
+```
+
+
