@@ -869,3 +869,13 @@ Execute
 Check Code and Response body
 ```
 
+
+### Additional test to verify the 404 error
+
+After the successful test, you can also open a non-existent route directly in the browser:
+
+```text
+http://127.0.0.1:8000/non-existent-route
+```
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_29.jpg)
