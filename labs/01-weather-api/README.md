@@ -917,11 +917,14 @@ If the response is correct, you will see:
 Invoke-RestMethod http://127.0.0.1:8000/health
 ```
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_31.jpg)
 
 
 ```powershell
 Invoke-RestMethod http://127.0.0.1:8000/weather
 ```
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_32.jpg)
 
 
 For a city:
@@ -930,6 +933,7 @@ For a city:
 Invoke-RestMethod "http://127.0.0.1:8000/weather/rio-grande"
 ```
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_33.jpg)
 
 
 With Fahrenheit:
@@ -939,6 +943,7 @@ Invoke-RestMethod `
   "http://127.0.0.1:8000/weather/orlando?unit=fahrenheit"
 ```
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_34.jpg)
 
 
 It is also possible to use `curl.exe` on Windows:
@@ -946,6 +951,9 @@ It is also possible to use `curl.exe` on Windows:
 ```powershell
 curl.exe http://127.0.0.1:8000/weather/tampa
 ```
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_35.jpg)
+
 
 
 
