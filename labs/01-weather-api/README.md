@@ -1179,3 +1179,31 @@ The result should be similar to:
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_40.jpg)
 
 
+### Save the change
+
+Look for the **Save** button, usually in the top-right corner, and click it.
+
+In some recent versions, Postman saves certain changes automatically. Even so, when **Save** appears, use it.
+
+### Do not create an environment at this time
+
+In the top-right corner of your image, the following appears:
+
+```text
+No environment
+```
+
+This does not represent an error.
+
+In this lab, we are creating a `collection variable`, not an environment variable. Therefore, you can leave it as is:
+
+```text
+No environment
+```
+
+The difference is:
+
+- **Collection variable**: belongs only to the `Lab 01 — Weather API` collection.
+- **Environment variable**: belongs to an environment, such as `Local`, `Development`, or `Production`.
+
+Since we only have a local API in this lab, the collection variable is sufficient.
