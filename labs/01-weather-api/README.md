@@ -1061,6 +1061,8 @@ This command allows PowerShell to execute scripts during that terminal session.
 > `-ExecutionPolicy Bypass`
 > 
 > → bypasses script execution restrictions for this window only.
+>
+> This change is temporary and is automatically reverted when the PowerShell window is closed.
 
 
 Activate the virtual environment, if it is not already activated:
