@@ -1127,4 +1127,6 @@ or:
 Variable | Type | Value
 ```
 
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_39.jpg)
+
 
