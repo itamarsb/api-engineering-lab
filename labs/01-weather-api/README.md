@@ -1243,13 +1243,12 @@ In the URL field, enter:
 
 Note that there is a forward slash `/` after the double braces.
 
-
-![Lab01](docs/images/Lab01_Clipboard_07-24-2026_41.jpg)
-
-
-
 When the variable is configured correctly, Postman typically displays `base_url` in a different color. Hovering your mouse over the variable may show the resolved value:
 
 ```http
 http://127.0.0.1:8000
 ```
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_41.jpg)
+
+
