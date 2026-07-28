@@ -1176,10 +1176,6 @@ The result should be similar to:
 
 ```
 
-```Markdown
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_40.jpg)
 
-| Variable | Type | Initial/Shared value | Current/Local value |
-|----------|------|----------------------|---------------------|
-| base_url | default | `http://127.0.0.1:8000` | `http://127.0.0.1:8000` |
 
-```
