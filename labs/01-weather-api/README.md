@@ -1207,3 +1207,44 @@ The difference is:
 - **Environment variable**: belongs to an environment, such as `Local`, `Development`, or `Production`.
 
 Since we only have a local API in this lab, the collection variable is sufficient.
+
+
+### Create your first request
+
+### Click Add request
+
+In the left sidebar, below `Collection is empty`, click:
+
+```text
+Add request
+```
+
+A new request tab will open.
+
+You will see something like this:
+
+```http
+GET | Enter URL or paste text | Send
+```
+
+### Configure the first request
+
+Keep the method as:
+
+```http
+GET
+```
+
+In the URL field, enter:
+
+```http
+{{base_url}}/
+```
+
+Note that there is a forward slash `/` after the double braces.
+
+When the variable is configured correctly, Postman typically displays `base_url` in a different color. Hovering your mouse over the variable may show the resolved value:
+
+```http
+http://127.0.0.1:8000
+```
