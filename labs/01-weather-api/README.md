@@ -1166,7 +1166,9 @@ If there is only one column named **Value**, enter the following in it:
 http://127.0.0.1:8000
 ```
 
-```Mermaid
+The result should be similar to:
+
+```Markdown
 
 | Variable   | Type    | Initial/Shared value    | Current/Local value     |
 | ---------- | ------- | ----------------------- | ----------------------- |
