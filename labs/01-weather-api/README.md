@@ -1304,3 +1304,11 @@ Postman recognizes JSON responses and typically displays the content already for
 
 
 
+### Creating the other requests
+
+There are two ways to proceed:
+
+1. create each request from scratch;
+2. duplicate the first one and modify the name and URL.
+
+To save time, we will use the duplication method.
