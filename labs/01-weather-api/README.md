@@ -1358,3 +1358,18 @@ Lab 01 — Weather API
 └── 06 - City Not Found
 ```
 
+The methods must appear as `GET`.
+
+```markdown
+| Request                   | URL                                            | Expected result    |
+| ------------------------- | ---------------------------------------------- | -----------------: |
+| 01 - API Information      | `{{base_url}}/`                                |           `200 OK` |
+| 02 - Health Check         | `{{base_url}}/health`                          |           `200 OK` |
+| 03 - List Weather Records | `{{base_url}}/weather`                         |           `200 OK` |
+| 04 - Get Weather by City  | `{{base_url}}/weather/rio-grande`              |           `200 OK` |
+| 05 - Convert Temperature  | `{{base_url}}/weather/orlando?unit=fahrenheit` |           `200 OK` |
+| 06 - City Not Found       | `{{base_url}}/weather/chicago`                 |    `404 Not Found` |
+```
+
+
+
