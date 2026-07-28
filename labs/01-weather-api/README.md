@@ -1252,3 +1252,26 @@ http://127.0.0.1:8000
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_41.jpg)
 
 
+### Save the request
+
+Click **Save** or press:
+
+```text
+Ctrl + S
+```
+
+In the save window:
+
+1. For the request name, enter:
+
+```text
+01 - API Information
+```
+
+2. Confirm that the destination is:
+
+```text
+Lab 01 — Weather API
+```
+
+3. Click **Save**.
