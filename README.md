@@ -6,7 +6,7 @@ Each lab builds a practical API for a different business scenario, introducing n
 
 ## Overall Progress
 
-**Completed:** 0 / 18 Labs
+**Completed:** 1 / 18 Labs
 
 ### Status Legend
 
