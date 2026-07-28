@@ -32,7 +32,7 @@ Build a solid foundation in HTTP, REST, JSON, resource modeling, validation and 
 
 | Status | Lab | Level | API Project | Business Scenario | Main Concepts | Technologies | Skills Demonstrated |
 |:---:|:---:|:---:|---|---|---|---|---|
-| ⬜ | 01 | 🟢 | Weather API | Public Weather Service | HTTP, REST, JSON, Routing, Query Parameters | Python, FastAPI | REST Design, Routing, Responses |
+| ✅ | 01 | 🟢 | Weather API | Public Weather Service | HTTP, REST, JSON, Routing, Query Parameters | Python, FastAPI | REST Design, Routing, Responses |
 | ⬜ | 02 | 🟢 | Library Management API | University Library | CRUD, Resources, HTTP Methods, Status Codes | Python, FastAPI | Resource Modeling, CRUD Operations |
 | ⬜ | 03 | 🟢 | Inventory API | Retail Inventory | Schemas, Validation, Error Handling | Python, FastAPI, Pydantic | Input Validation, Standardized Errors |
 
@@ -50,6 +50,9 @@ GET /health
 GET /weather
 GET /weather/{city}
 ```
+
+https://github.com/itamarsb/api-engineering-lab/blob/main/labs/01-weather-api/README.md
+
 
 ### Lab 02 — Library Management API
 
