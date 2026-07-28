@@ -1168,7 +1168,7 @@ http://127.0.0.1:8000
 
 ```text
 
-| Variable   | Type    | Initial/Shared value    | Current/Local value     |
+| **Variable**   | **Type**    | **Initial/Shared value**    | **Current/Local value**     |
 | ---------- | ------- | ----------------------- | ----------------------- |
 | `base_url` | default | `http://127.0.0.1:8000` | `http://127.0.0.1:8000` |
 
