@@ -1166,9 +1166,9 @@ If there is only one column named **Value**, enter the following in it:
 http://127.0.0.1:8000
 ```
 
-```text
+```Mermaid
 
-| **Variable**   | **Type**    | **Initial/Shared value**    | **Current/Local value**     |
+| Variable   | Type    | Initial/Shared value    | Current/Local value     |
 | ---------- | ------- | ----------------------- | ----------------------- |
 | `base_url` | default | `http://127.0.0.1:8000` | `http://127.0.0.1:8000` |
 
