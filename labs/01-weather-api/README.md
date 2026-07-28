@@ -1111,3 +1111,20 @@ COLLECTIONS
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_38.jpg)
 
 A **collection** is a grouping of saved requests. In addition to requests, it can contain variables, documentation, examples, and test scripts.
+
+
+### Create the `base_url` variable
+
+In the image, you can already see the tabs:
+
+```text
+Overview | Authorization | Scripts | Variables | Runs
+```
+
+or:
+
+```text
+Variable | Type | Value
+```
+
+
