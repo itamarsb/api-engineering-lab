@@ -1275,3 +1275,26 @@ Lab 01 — Weather API
 ```
 
 3. Click **Save**.
+
+
+### Send the request
+
+Click the **Send** button.
+
+At the bottom of the screen, Postman should display:
+
+- HTTP code;
+- response time;
+- response size;
+- response body;
+- headers.
+
+You should see:
+
+```text
+200 OK
+```
+
+And a JSON body containing API information. The exact content depends on the code created in the lab.
+
+Postman recognizes JSON responses and typically displays the content already formatted and with syntax highlighting.
