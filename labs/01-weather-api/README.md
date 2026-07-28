@@ -1035,6 +1035,29 @@ The API needs to be running while you perform the tests.
 cd C:\GitHub\api-engineering-lab\labs\01-weather-api
 ```
 
+After:
+
+For security reasons, Windows typically blocks the execution of untrusted PowerShell scripts.
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
+This command allows PowerShell to execute scripts during that terminal session.
+
+> [!TIP]
+> **Note:**
+>
+> It means:
+> 
+> `Set-ExecutionPolicy`
+> → changes the PowerShell execution policy.
+> `-Scope Process`
+> → changes it only for the process (the current terminal).
+> `-ExecutionPolicy Bypass`
+> → bypasses script execution restrictions for this window only.
+
+
 Activate the virtual environment, if it is not already activated:
 
 ```powershell
