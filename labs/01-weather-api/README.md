@@ -1130,3 +1130,46 @@ Variable | Type | Value
 ![Lab01](docs/images/Lab01_Clipboard_07-24-2026_39.jpg)
 
 
+### Register the variable
+
+In the first empty line, fill in:
+
+### Variable
+
+```text
+base_url
+```
+
+### Type
+
+Keep:
+
+```text
+default
+```
+
+### Initial value or Shared value
+
+```text
+http://127.0.0.1:8000
+```
+
+### Current value or Local value
+
+```text
+http://127.0.0.1:8000
+```
+
+If there is only one column named **Value**, enter the following in it:
+
+```text
+http://127.0.0.1:8000
+```
+
+```text
+
+| Variable   | Type    | Initial/Shared value    | Current/Local value     |
+| ---------- | ------- | ----------------------- | ----------------------- |
+| `base_url` | default | `http://127.0.0.1:8000` | `http://127.0.0.1:8000` |
+
+```
