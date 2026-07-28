@@ -1051,10 +1051,15 @@ This command allows PowerShell to execute scripts during that terminal session.
 > It means:
 > 
 > `Set-ExecutionPolicy`
+> 
 > → changes the PowerShell execution policy.
+> 
 > `-Scope Process`
+> 
 > → changes it only for the process (the current terminal).
+> 
 > `-ExecutionPolicy Bypass`
+> 
 > → bypasses script execution restrictions for this window only.
 
 
