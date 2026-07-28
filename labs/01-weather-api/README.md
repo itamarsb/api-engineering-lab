@@ -1298,3 +1298,9 @@ You should see:
 And a JSON body containing API information. The exact content depends on the code created in the lab.
 
 Postman recognizes JSON responses and typically displays the content already formatted and with syntax highlighting.
+
+
+![Lab01](docs/images/Lab01_Clipboard_07-24-2026_42.jpg)
+
+
+
