@@ -1175,3 +1175,11 @@ The result should be similar to:
 | `base_url` | default | `http://127.0.0.1:8000` | `http://127.0.0.1:8000` |
 
 ```
+
+```Markdown
+
+| Variable | Type | Initial/Shared value | Current/Local value |
+|----------|------|----------------------|---------------------|
+| base_url | default | `http://127.0.0.1:8000` | `http://127.0.0.1:8000` |
+
+```
