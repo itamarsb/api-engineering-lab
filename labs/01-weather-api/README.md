@@ -1342,3 +1342,19 @@ There are two ways to proceed:
 2. duplicate the first one and modify the name and URL.
 
 To save time, we will use the duplication method.
+
+
+### Checking the final structure
+
+In the left sidebar, the collection should appear like this:
+
+```markdown
+Lab 01 — Weather API
+├── 01 - API Information
+├── 02 - Health Check
+├── 03 - List Weather Records
+├── 04 - Get Weather by City
+├── 05 - Convert Temperature
+└── 06 - City Not Found
+```
+
