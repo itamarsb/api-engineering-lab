@@ -692,11 +692,12 @@ api-engineering-lab/
 ---
 
 
-<p align="center" width="100%">
+<p align="center">
   <a href="https://info.flagcounter.com/mk0o">
     <img
       src="https://s01.flagcounter.com/count2/mk0o/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"
       alt="Flag Counter"
+        width="900"
     />
   </a>
 </p>
