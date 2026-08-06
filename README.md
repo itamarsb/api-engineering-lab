@@ -692,14 +692,8 @@ api-engineering-lab/
 ---
 
 
-<table width="100%">
-<tr>
-<td align="center">
-
-<a href="https://info.flagcounter.com/mk0o">
-    <img src="https://s01.flagcounter.com/count2/mk0o/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter">
-</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://info.flagcounter.com/QVEd">
+    <img src="https://s01.flagcounter.com/count/QVEd/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_100/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter">
+  </a>
+</p>
